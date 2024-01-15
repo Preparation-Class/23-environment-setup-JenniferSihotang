@@ -1,9 +1,11 @@
-// NIM - NAMA
+// 12S23047 - Jennifer Hpenes Sihotang
 
 #include <stdio.h>
 
 int main(char **_argc, int _argv)
 {
-    // Show your code here ...
+    printf("Hello, world!");
+    // lkjhgfd
+
     return 0;
 }
